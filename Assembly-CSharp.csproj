@@ -60,7 +60,9 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assets\MainMenu.cs" />
+    <Compile Include="Assets\scripts\BallScript.cs" />
+    <Compile Include="Assets\scripts\MainMenu.cs" />
+    <Compile Include="Assets\scripts\PaddleScript.cs" />
     <Reference Include="Unity.TextMeshPro.Editor">
       <HintPath>C:/Users/Punki/Desktop/Studia/Projektowanie Gier/Programowanie/Arkanoid/Block Breaker/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
     </Reference>
